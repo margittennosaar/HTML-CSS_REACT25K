@@ -8,7 +8,7 @@
 3. Link the CSS file to the HTML file using the `<link>` element in the `<head>`.
 
 ## Step 2: Build the HTML Structure
-1. Add a **header** at the top of the page. Include your name and a tagline.
+1. Add a **header** at the top of the page. Include your name.
 2. Create a **main section** with the following:
    - A brief introduction paragraph.
    - A list of hobbies or skills.
