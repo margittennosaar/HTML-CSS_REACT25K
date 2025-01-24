@@ -19,7 +19,6 @@
 
 ### General Setup
 1. Set the `box-sizing` property to `border-box` for all elements.
-2. Apply a default font family and color scheme to the page.
 
 ### Header
 1. Use padding and margins to position the header elements.
@@ -29,10 +28,12 @@
 ### Main Section
 1. Style the **introduction paragraph**:
    - Use `margin` and `padding` to space it nicely.
-   - Adjust `line-height` for readability.
+   - Use different background color.
+   - Make width 25%
 2. For the **list of hobbies or skills**:
-   - Use a combination of padding and list-style properties to style it.
-   - Add a hover effect to the list items.
+   - Use `margin` and `padding` to space it nicely.
+   - Use different background color.
+   - Make width 500px
 3. For the **About Me section**:
    - Place the profile picture on the left and the text on the right.
    - Use padding and margins to create a clean layout.
@@ -41,10 +42,9 @@
 ### Footer
 1. Center the footer content using `margin: auto` and text alignment.
 2. Add padding for spacing and a background color that complements the header.
-3. Add hover effects to the social media or contact links.
 
 ## Step 4: Add Background Colors and Images
 1. Apply a subtle background color or gradient to the entire page.
 2. Add a background image to the **About Me** section.
    - Use `background-size: cover;` to ensure the image covers the section properly.
-3. Experiment with transparency using `rgba` or `opacity` to ensure text is readable over the background image.
+
