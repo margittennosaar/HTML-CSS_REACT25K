@@ -1,0 +1,78 @@
+/* Global settings */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #333;
+  color: white;
+}
+
+h2 {
+  margin: 20px 0;
+}
+
+/* Header */
+
+header {
+  background-color: #333;
+  padding: 32px;
+  border-bottom: 2px solid #1b1b1b;
+}
+
+header h1 {
+  color: white;
+}
+
+/* Main area */
+section {
+  padding: 32px;
+}
+
+/* Introduction section */
+
+#introduction {
+  background-color: #462f0d;
+  height: 25%;
+}
+
+/* Hobbies */
+
+#hobbies {
+  background-color: #61461c;
+  height: 500px;
+}
+
+ul {
+  margin-left: 20px;
+}
+
+/* About */
+
+#about {
+  background-color: #775d36;
+  min-height: 400px;
+}
+
+#about img {
+  float: left;
+  border: 5px solid white;
+  border-radius: 5px;
+}
+
+#about p {
+  float: right;
+  padding: 0 20px;
+  width: 75%;
+}
+
+/* Footer */
+
+footer {
+  clear: both;
+  background-color: #333;
+  padding: 40px;
+  text-align: center;
+  color: white;
+}
